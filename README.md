@@ -33,3 +33,7 @@ Additional data is necessary to understand why there are so many long rentals. I
 ## Popular Starting Stations, Morning Rush Hour
 
 During the morning rush hour, between 6 and 9 AM, the most popular starting stations tend to be in New York City, south of Central Park. These riders are likely commuting to work to locations that do not require the rider to cross a bridge or tunnel. The housing costs in Central Park inside New York City implies the income level of those living in this area may be high enough such they those living in this area may be able to afford more expensive modes of transportation. 
+
+## Final Files
+
+The final tableau notebook is located in citibike.twb and to obtain the data I used, you need to run all the cells in the combineCSV_and_cleanData.ipynb jupyter notebook. 
