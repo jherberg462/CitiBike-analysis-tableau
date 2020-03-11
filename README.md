@@ -42,6 +42,6 @@ During the morning rush hour, between 6 and 9 AM, the most popular starting stat
 
 1. Can be located at: https://www.citibikenyc.com/system-data
 
-## Final Files
+## Results
 
 The final tableau notebook is located in citibike.twb and to obtain the data I used, you need to run all the cells in the combineCSV_and_cleanData.ipynb jupyter notebook. 
