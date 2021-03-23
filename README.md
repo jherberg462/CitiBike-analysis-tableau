@@ -1,6 +1,6 @@
 # Analysis of CitiBike program, NYC, July - December 2019
 
-The purpose of this project was to analyze Data from the CitiBike using tableau. The data was extracted from the CitiBike data website, combined and saved as a single CSV file using Python libraries pandas, NumPy, requests, zipfile, io, and glob. Analysis of the data was completed in tableau. 
+The purpose of this project was to analyze Data from the CitiBike using tableau. The data was extracted from CitiBike data website, combined, and saved as a single CSV file using Python libraries pandas, NumPy, requests, zipfile, io, and glob. Analysis of the data was completed in tableau. 
 
 ## Analysis
 
